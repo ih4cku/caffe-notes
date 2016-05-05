@@ -1,1 +1,1 @@
-# caffe-nots
+# caffe-notes
